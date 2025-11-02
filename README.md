@@ -13,5 +13,4 @@ The cleaned and processed text is then used to analyze and classify sentiments s
 
 ## 👨‍💻 Author  
 **Amit Mohanty**  
-B.Tech CSE (3rd Year)  
-Interested in Machine Learning, NLP, and Full Stack Development  
+
